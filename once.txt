@@ -1,0 +1,4 @@
+welcome
+wishes
+good
+bad
